@@ -1,0 +1,22 @@
+{
+  "name": "mongodb_practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "conection.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Akhlaquea01/MongoDb_Practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Akhlaquea01/MongoDb_Practice/issues"
+  },
+  "homepage": "https://github.com/Akhlaquea01/MongoDb_Practice#readme",
+  "dependencies": {
+    "mongodb": "^4.12.1"
+  }
+}
